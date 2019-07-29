@@ -9,4 +9,4 @@
 * [Kamwoo Lee, Jeanine Braithwaite, Michel Atchikpa. Understanding Sensitive Social Issues in Senegal through Language Use: A Machine Learning Approach. Under review at the Journal of Computational Social Science. 2019.](submitted/Understanding_Sensitive_Social_Issues_in_Senegal_through_Language_Use_a_Machine_Learning_Approach.pdf)
 
 # Working papers
-* [Poverty, Environment, and Neglected Tropical Diseases in Senegal: A Computational Sustainability Study](https://github.com/KamwooLee/working/Lee_Kamwoo_iGrant proposal.pdf)
+* [Proposal - Poverty, Environment, and Neglected Tropical Diseases in Senegal: A Computational Sustainability Study](working/Lee_Kamwoo_iGrant_proposal.pdf)

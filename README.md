@@ -3,7 +3,7 @@
 
 * [Kamwoo Lee, Sinan Ulkuatam, Peter Beling, William Scherer. Generating Synthetic Bitcoin Transactions and Predicting Market Price Movement via Inverse Reinforcement Learning and Agent-based Modeling. Journal of Artificial Societies and Social Simulation 21, no. 3. 2018.](https://github.com/KamwooLee/published/Generating Synthetic Bitcoin Transactions and Predicting Market Price Movement via IRL and ABM.pdf)
 
-* [Kamwoo Lee, Mark Rucker, William Scherer, Peter Beling, Matthew Gerber, Hyojung Kang. Agent-based Model Construction Using Inverse Reinforcement Learning. In Winter Simulation Conference. IEEE. 2017.](https://github.com/KamwooLee/published/Agent-Based Model Construction Using Inverse Reinforcement Learning.pdf)
+* [Kamwoo Lee, Mark Rucker, William Scherer, Peter Beling, Matthew Gerber, Hyojung Kang. Agent-based Model Construction Using Inverse Reinforcement Learning. In Winter Simulation Conference. IEEE. 2017.](published/Agent-Based_Model_Construction_Using_Inverse_Reinforcement_Learning.pdf)
 
 # Submitted papers
 * [Kamwoo Lee, Jeanine Braithwaite, Michel Atchikpa. Understanding Sensitive Social Issues in Senegal through Language Use: A Machine Learning Approach. Under review at the Journal of Computational Social Science. 2019.](https://github.com/KamwooLee/submitted/Understanding Sensitive Social Issues in Senegal through Language Use a Machine Learning Approach.pdf)
